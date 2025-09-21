@@ -15,7 +15,7 @@ The goal is to demonstrate a strong understanding of the mathematics, intuition,
 
 ## 🛠️ Tech Stack
 - **Language:** Python  
-- **Libraries:** NumPy, Matplotlib, Scikit learn 
+- **Libraries:** NumPy, Matplotlib, Scikit learn (just for generating the dummy datasets i promise 😆)
 - **Notebooks:** Jupyter
 
 
