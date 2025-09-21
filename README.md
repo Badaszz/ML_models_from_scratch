@@ -4,7 +4,6 @@ This repository contains my implementations of fundamental machine learning algo
 The goal is to demonstrate a strong understanding of the mathematics, intuition, and code behind each model, without relying on high-level ML libraries like scikit-learn.
 
 ## 📚 Implemented Algorithms
-- Linear Regression
 - Ridge Regression
 - Logistic Regression
 - Logistic Regression with Gradient Descent Optimization
